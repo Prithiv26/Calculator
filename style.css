@@ -12,9 +12,8 @@ body{
 }
 
 .calContainer{
-    /* height: 600px; */
-    height: 70%;
-    width: 70%;
+    height: 400px;
+    width: 600px;
     border: 6px solid black;
     border-radius: 3px;
     display: flex;
